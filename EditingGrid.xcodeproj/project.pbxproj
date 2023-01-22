@@ -11,6 +11,10 @@
 		A5ABDCA9297D8B5C005E0C72 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ABDCA8297D8B5C005E0C72 /* ContentView.swift */; };
 		A5ABDCAB297D8B5D005E0C72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5ABDCAA297D8B5D005E0C72 /* Assets.xcassets */; };
 		A5ABDCAE297D8B5D005E0C72 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A5ABDCAD297D8B5D005E0C72 /* Preview Assets.xcassets */; };
+		A5ABDCB5297D8D49005E0C72 /* Symbol.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ABDCB4297D8D49005E0C72 /* Symbol.swift */; };
+		A5ABDCB9297D8EBE005E0C72 /* SymbolDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ABDCB8297D8EBE005E0C72 /* SymbolDetail.swift */; };
+		A5ABDCBB297D9072005E0C72 /* SymbolGrid.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ABDCBA297D9072005E0C72 /* SymbolGrid.swift */; };
+		A5ABDCBD297D9743005E0C72 /* SymbolPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5ABDCBC297D9743005E0C72 /* SymbolPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +23,10 @@
 		A5ABDCA8297D8B5C005E0C72 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A5ABDCAA297D8B5D005E0C72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A5ABDCAD297D8B5D005E0C72 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A5ABDCB4297D8D49005E0C72 /* Symbol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Symbol.swift; sourceTree = "<group>"; };
+		A5ABDCB8297D8EBE005E0C72 /* SymbolDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolDetail.swift; sourceTree = "<group>"; };
+		A5ABDCBA297D9072005E0C72 /* SymbolGrid.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolGrid.swift; sourceTree = "<group>"; };
+		A5ABDCBC297D9743005E0C72 /* SymbolPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +61,10 @@
 			children = (
 				A5ABDCA6297D8B5C005E0C72 /* EditingGridApp.swift */,
 				A5ABDCA8297D8B5C005E0C72 /* ContentView.swift */,
+				A5ABDCB8297D8EBE005E0C72 /* SymbolDetail.swift */,
+				A5ABDCBA297D9072005E0C72 /* SymbolGrid.swift */,
+				A5ABDCBC297D9743005E0C72 /* SymbolPicker.swift */,
+				A5ABDCB4297D8D49005E0C72 /* Symbol.swift */,
 				A5ABDCAA297D8B5D005E0C72 /* Assets.xcassets */,
 				A5ABDCAC297D8B5D005E0C72 /* Preview Content */,
 			);
@@ -139,6 +151,10 @@
 			files = (
 				A5ABDCA9297D8B5C005E0C72 /* ContentView.swift in Sources */,
 				A5ABDCA7297D8B5C005E0C72 /* EditingGridApp.swift in Sources */,
+				A5ABDCBB297D9072005E0C72 /* SymbolGrid.swift in Sources */,
+				A5ABDCBD297D9743005E0C72 /* SymbolPicker.swift in Sources */,
+				A5ABDCB9297D8EBE005E0C72 /* SymbolDetail.swift in Sources */,
+				A5ABDCB5297D8D49005E0C72 /* Symbol.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
